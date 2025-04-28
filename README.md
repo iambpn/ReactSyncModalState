@@ -1,11 +1,11 @@
-# ReactModalState
+# React-Modal-State-Hook
 
 Synchronous Modal state for react
 
 ## Usage
 
 ```bash
-npm install react-modal-state
+npm install react-modal-state-hook
 ```
 
 ### Example
@@ -18,7 +18,7 @@ npm install react-modal-state
     closeModal: (returnValue: T) => void;
   }
 */
-import { useSyncModalState } from "react-modal-state";
+import { useSyncModalState } from "react-modal-state-hook";
 
 const App = () => {
   const modalState = useSyncModalState();
