@@ -7,6 +7,41 @@
   "files": [
     "dist"
   ],
+  "author": {
+    "email": "bopon.maharjan@gmail.com",
+    "name": "Bipin Maharjan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iambpn/ReactModalStateHook.git"
+  },
+  "description": "A custom React hook for managing modal state in synchronous way in a React application.",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "hook",
+    "modal",
+    "state",
+    "custom",
+    "react-native-hooks",
+    "react-hook",
+    "react-modal",
+    "react-state",
+    "react-custom-hook",
+    "react-custom-modal",
+    "react-custom-state",
+    "react-modal-hook",
+    "react-modal-state",
+    "react-modal-state-hook",
+    "react-modal-state-manager",
+    "react-modal-state-manager-hook",
+    "synchronous-modal",
+    "synchronous-modal-hook",
+    "synchronous-modal-state",
+    "synchronous-modal-state-hook",
+    "synchronous-modal-state-manager"
+  ],
+  "homepage": "https://github.com/iambpn/ReactModalStateHook#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b ./tsconfig.lib.json && vite build",
