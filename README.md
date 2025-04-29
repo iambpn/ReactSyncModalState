@@ -10,6 +10,9 @@ npm install react-sync-modal-state
 
 ### Example
 
+
+[StackBlitz Example](https://stackblitz.com/edit/react-sync-modal-example)
+
 ```javascript
 /*
   function useSyncModalState<T = any>(): {
