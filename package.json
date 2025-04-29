@@ -1,5 +1,5 @@
 {
-  "name": "react-modal-state-hook",
+  "name": "react-sync-modal-state",
   "version": "0.0.2",
   "type": "module",
   "main": "dist/main.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:iambpn/ReactModalStateHook.git"
+    "url": "git@github.com:iambpn/ReactSyncModalState.git"
   },
   "description": "A custom React hook for managing modal state in synchronous way in a React application.",
   "license": "MIT",
@@ -26,22 +26,19 @@
     "react-native-hooks",
     "react-hook",
     "react-modal",
-    "react-state",
-    "react-custom-hook",
-    "react-custom-modal",
-    "react-custom-state",
     "react-modal-hook",
     "react-modal-state",
-    "react-modal-state-hook",
-    "react-modal-state-manager",
-    "react-modal-state-manager-hook",
+    "react-sync-modal-state",
+    "react-sync-modal",
+    "react-sync-modal-hook",
+    "react-sync-modal-state-hook",
     "synchronous-modal",
     "synchronous-modal-hook",
     "synchronous-modal-state",
     "synchronous-modal-state-hook",
     "synchronous-modal-state-manager"
   ],
-  "homepage": "https://github.com/iambpn/ReactModalStateHook#readme",
+  "homepage": "https://github.com/iambpn/ReactSyncModalState#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b ./tsconfig.lib.json && vite build",
