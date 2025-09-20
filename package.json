@@ -7,10 +7,7 @@
   "files": [
     "dist"
   ],
-  "author": {
-    "email": "bopon.maharjan@gmail.com",
-    "name": "Bipin Maharjan"
-  },
+  "author": "Bipin Maharjan",
   "repository": {
     "type": "git",
     "url": "git@github.com:iambpn/ReactSyncModalState.git"
